@@ -12,7 +12,7 @@
 
 * [Cascading Style Sheets](https://www.w3.org/Style/CSS/Overview.en.html)
 
-* [ECMAScript \- Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/ECMAScript)
 
 * [JavaScript | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
