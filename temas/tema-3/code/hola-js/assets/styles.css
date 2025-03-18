@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #2033dd;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 3em;
+  text-shadow: 2px 2px 4px #aaa;
+}
+
+.fechaHora {
+  color: #ffffff;
+}
