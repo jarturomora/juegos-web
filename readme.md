@@ -13,3 +13,5 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 ### Temas Vistos en Clase
 
 * [Tema 2: HTML, CSS y JavaScript](temas/tema-2/readme.md)
+
+* [Tema 3: Programación con JavaScript](temas/tema-3/readme.md)
