@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #2033dd;
+  background-color: #20d4dd;
   text-align: center;
   margin-top: 50px;
 }
@@ -11,6 +11,7 @@ h1 {
   text-shadow: 2px 2px 4px #aaa;
 }
 
+/* Este estilo es para una clase*/
 .fechaHora {
   color: #ffffff;
 }
