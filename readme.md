@@ -16,7 +16,7 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 3: Programación con JavaScript](temas/tema-3/readme.md)
 
-* [Tema 4: Tema 4: Introducción a Phaser](temas/tema-4/readme.md)
+* [Tema 4: Introducción a Phaser](temas/tema-4/readme.md)
 
 ### Temas Complementarios
 
