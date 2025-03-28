@@ -29,6 +29,24 @@ https://cdn.jsdelivr.net/npm/phaser@v3.88.2/dist/phaser.min.js
 
 * [Ejemplo de Mini Juego](code/mini-juego/)
 
+* [Documentación de Phaser](https://docs.phaser.io/phaser/getting-started/what-is-phaser)
+
+## Actividad de Clase
+
+Llegó el momento de ponerte manos a la obra con Phaser. Tomando como base el ejemplo del "mini juego", consulta la [documentación de Phaser](https://docs.phaser.io/phaser/getting-started/what-is-phaser) y modifica el código para conseguir lo siguiente:
+
+1. Utilizar las flechas de arriba y abajo para que el personaje se mueva hacia dichas direcciones.
+
+2. Captura el evento de presionar las teclas A, S, D y W para mover el personaje de la siguiente manera:
+
+    * A - Izquierda
+
+    * D - Derecha
+
+    * S - Abajo
+
+    * W - Arriba
+
 ## Recursos Adicionales
 
 * [Repositorio de Phaser en GitHub](https://github.com/phaserjs/phaser)
