@@ -75,3 +75,13 @@ El uso de `defer` es una práctica recomendada para cargar scripts externos como
 Si no usas `defer` y colocas el `<script>` en el `<head>`, el navegador _detendrá la carga del HTML_ para descargar y ejecutar el script _inmediatamente_. Esta acción que puede causar errores si el DOM aún no está listo.
 
 Si no quieres utilizar `defer`, una alternativa es colocar el `<script>` al final del `<body>`. Pero, sin lugar a dudas, usar `defer` te ayudará a mantener el HTML más limpio y controlado.
+
+### En el mini-juego ¿en que unidades de medida son los pasos?
+
+En el contexto de este juego en Phaser, cuando decimos que el personaje se mueve con:
+
+```javascript
+player.x += 2;
+```
+
+Estamos moviéndolo **2 píxeles por fotograma** en el eje X (horizontal) o eje Y (vertical). Entonces, el contador `pasos` que estamos usando _no cuenta pasos humanos_, sino que cuenta _cuántos píxeles se ha desplazado el personaje_, acumulados por cada fotograma en el que hay movimiento.

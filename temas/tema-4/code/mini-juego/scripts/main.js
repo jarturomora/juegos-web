@@ -37,7 +37,8 @@ const game = new Phaser.Game(config);
 // Función preload: se usa para cargar archivos antes de iniciar el juego
 function preload() {
     // Imagen del jugador (sprite)
-    this.load.image('player', 'https://labs.phaser.io/assets/sprites/sonic.png');
+    //this.load.image('player', 'https://labs.phaser.io/assets/sprites/sonic.png');
+    this.load.image('player', './assets/mario.png');
 
     // Sonido corto al iniciar el juego
     this.load.audio('start', 'https://labs.phaser.io/assets/audio/SoundEffects/key.wav');
@@ -49,7 +50,7 @@ function create() {
     player = this.physics.add.sprite(400, 300, 'player');
 
     // Escalar el personaje (opcional)
-    player.setScale(1.5);
+    player.setScale(0.5);
 
     // Activar las teclas de flechas (izquierda, derecha, arriba, abajo)
     cursors = this.input.keyboard.createCursorKeys();
