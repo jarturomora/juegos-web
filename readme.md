@@ -18,6 +18,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 4: Introducción a Phaser](temas/tema-4/readme.md)
 
+* [Tema 5: Gestión de Elementos y Física Básica de Arcade de un Juego en Phaser](temas/tema-5/readme.md)
+
 ### Temas Complementarios
 
 * [Curso de Git desde Cero (freeCodeCamp en Español)](https://youtu.be/h2ZzlNVl-nI?si=2xzZembYFnzb1k4Y)
