@@ -4,6 +4,8 @@
 
 * Aprender a cargar _tiles_ y _tilemaps_ y optimizarlos para su uso en Phaser 3.
 
+* Añadir personajes a un juego con _tilemap_ incluyendo su física y movimiento básico.
+
 ## Conceptos Clave
 
 ### ¿Qué es un _tile_?
