@@ -1,4 +1,4 @@
-# Tema 6: Interacciones Personajes y el Elementos del Juego
+# Tema 6: Creación de Juegos con _tilemap_
 
 ## Objetivos de Aprendizaje
 
