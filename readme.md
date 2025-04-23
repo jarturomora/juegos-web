@@ -20,6 +20,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 5: Gestión de Elementos y Física Básica de Arcade de un Juego en Phaser](temas/tema-5/readme.md)
 
+* [Tema 6: Creación de Juegos con _tilemap_](temas/tema-6/readme.md)
+
 ### Temas Complementarios
 
 * [Curso de Git desde Cero (freeCodeCamp en Español)](https://youtu.be/h2ZzlNVl-nI?si=2xzZembYFnzb1k4Y)
