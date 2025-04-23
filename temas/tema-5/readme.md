@@ -10,7 +10,9 @@
 
 * Cómo reiniciar la escena tras una condición (colisión).
 
-## Uso de scripts en HTML y la ventaja de los módulos
+## Conceptos Clave
+
+### Uso de scripts en HTML y la ventaja de los módulos
 
 En el desarrollo web moderno, una forma común de incluir archivos JavaScript en nuestras páginas es mediante la etiqueta `<script>` en el archivo HTML. Esta etiqueta le indica al navegador que debe cargar y ejecutar un archivo JavaScript específico.
 
