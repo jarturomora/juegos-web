@@ -22,6 +22,10 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 6: Creación de Juegos con _tilemap_](temas/tema-6/readme.md)
 
+### Propuesta de Solución de Actividades
+
+* [Actividad 1: Objetos en JavaScript](actividades/actividad-1/)
+
 ### Temas Complementarios
 
 * [Curso de Git desde Cero (freeCodeCamp en Español)](https://youtu.be/h2ZzlNVl-nI?si=2xzZembYFnzb1k4Y)

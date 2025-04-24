@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Máquina Expendedora</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+    <script src="scripts/vendingMachine.js" defer></script>
+  </head>
+  <body>
+    <div class="contenedor">
+      <h1>Máquina Expendedora</h1>
+      <img
+        src="assets/vending-machine.png"
+        alt="Imagen de máquina expendedora"
+        class="imagen-vending"
+      />
+      <p id="saldo" class="texto-saldo">Saldo: 0€</p>
+      <div class="botones">
+        <button onclick="maquina.introducirMoneda(1)">Introducir 1€</button>
+        <button onclick="maquina.seleccionarProducto('Chips')">
+          Seleccionar Chips (2€)
+        </button>
+        <button onclick="maquina.solicitarDevolucion()">
+          Solicitar devolución
+        </button>
+      </div>
+      <p id="mensaje" class="mensaje"></p>
+    </div>
+  </body>
+</html>
