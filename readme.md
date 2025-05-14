@@ -26,6 +26,10 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Actividad 1: Objetos en JavaScript](actividades/actividad-1/)
 
+### Ejercicios de Refuerzo
+
+* [Ejercicio de Refuerzo 1: Juego con _tilemap_ y un enemigo](ejercicios/ejercicio-1/readme.md)
+
 ### Temas Complementarios
 
 * [Curso de Git desde Cero (freeCodeCamp en Español)](https://youtu.be/h2ZzlNVl-nI?si=2xzZembYFnzb1k4Y)
