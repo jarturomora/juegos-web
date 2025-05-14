@@ -10,7 +10,7 @@ export default class EscenaBase extends Phaser.Scene {
         this.load.image('tilesheet', 'assets/tiles.png'); // Carga tiles
         this.load.tilemapTiledJSON('map', 'assets/mapa.json'); // Carga mapa en formato JSON
         this.load.image('jugador', 'assets/prota.png'); // Carga el personaje
-        //this.load.audio('musica', 'assets/music.mp3'); // Carga música de fondo
+        this.load.audio('musica', 'assets/music.mp3'); // Carga música de fondo
 
         // Cargar el sprite del jugador
         this.load.atlas('spr_player', 
@@ -35,11 +35,11 @@ export default class EscenaBase extends Phaser.Scene {
         this.physics.add.collider(this.jugador, this.plataformas); // Añadir colisión entre el jugador y las plataformas
 
         // Reproducir música de fondo
-        /* this.musica = this.sound.add('musica', {
-        loop: true,      // Reproduce en bucle
-        volume: 0.5      // Volumen (0 = silencio, 1 = máximo)
+        this.musica = this.sound.add('musica', {
+            loop: true,      // Reproduce en bucle
+            volume: 0.5      // Volumen (0 = silencio, 1 = máximo)
         });
-        this.musica.play(); */
+        this.musica.play();
     }
 
     update() {
