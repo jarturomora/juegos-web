@@ -37,6 +37,7 @@ export default class EscenaBase extends Phaser.Scene {
 
     // Crear el jugador con referencia al sonido de salto
     this.jugador = new Jugador(this, 300, 200, this.sonidoSalto);
+    this.jugador.setScale(0.5); // Cambia la escala al 50%
     this.jugador.setCollideWorldBounds(true);
     this.physics.add.collider(this.jugador, plataformas);
 
