@@ -28,6 +28,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Actividad 1: Objetos en JavaScript](actividades/actividad-1/)
 
+* [Actividad 2: Juego de plataformas en Phaser](actividades/actividad-2/)
+
 ### Ejercicios de Refuerzo
 
 * [Ejercicio de Refuerzo 1: Juego con _tilemap_ y un enemigo](ejercicios/ejercicio-1/readme.md)
