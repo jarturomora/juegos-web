@@ -24,6 +24,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 7: Control, Movimientos y Animaciones](temas/tema-7/readme.md)
 
+* [Tema 8: Control de Cámara y Colisiones con Objetos](temas/tema-8/readme.md)
+
 ### Propuesta de Solución de Actividades
 
 * [Actividad 1: Objetos en JavaScript](actividades/actividad-1/)
