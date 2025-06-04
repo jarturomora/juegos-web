@@ -26,6 +26,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 8: Control de Cámara y Colisiones con Objetos](temas/tema-8/readme.md)
 
+* [Tema 9: Físicas y Elementos de Colisión](temas/tema-9/readme.md)
+
 ### Propuesta de Solución de Actividades
 
 * [Actividad 1: Objetos en JavaScript](actividades/actividad-1/)
