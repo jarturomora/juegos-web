@@ -179,8 +179,8 @@ export default class EscenaBase extends Phaser.Scene {
     } else {
       // Programar el fin de la invulnerabilidad dentro de 1000 ms (1 segundo)
       this.time.delayedCall(1000, () => {
-        //this.invulnerable = false;
-        //this.jugador.clearTint(); // Restauramos el color original del jugador
+        this.invulnerable = false;
+        this.jugador.clearTint(); // Restauramos el color original del jugador
       });
     }
   }
