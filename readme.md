@@ -28,6 +28,8 @@ A continuación se listan los enlaces a los directorios de cada tema (es importa
 
 * [Tema 9: Físicas y Elementos de Colisión](temas/tema-9/readme.md)
 
+* [Tema 10: Fondos e Interfaz de Usuario](temas/tema-10/readme.md)
+
 ### Propuesta de Solución de Actividades
 
 * [Actividad 1: Objetos en JavaScript](actividades/actividad-1/)
