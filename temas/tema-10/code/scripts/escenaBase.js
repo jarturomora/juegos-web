@@ -42,7 +42,7 @@ export default class EscenaBase extends Phaser.Scene {
 
     // Añadimos un fondo de pantalla
     this.fondo = this.add.image(0, 0, 'fondo').setOrigin(0, 0);
-    //this.fondo.setScale(1.6,  1.1);
+    // this.fondo.setScale(0.5,  0.5);
     this.fondo.setScrollFactor(0);
 
     // Cargamos el mapa y la capa de plataformas
