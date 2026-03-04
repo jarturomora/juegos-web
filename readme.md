@@ -1,5 +1,9 @@
 # Repositorio de la Asignatura "Juegos para la Web"
 
+> ⚠️ **IMPORTANTE**
+> A partir del 2 de marzo de 2026, este repositorio dejará de actualizarse para migrar al nuevo espacio de repositorios
+> del Grado en Diseño y Desarrollo de Videojuegos. Al cuál puedes acceder, en [este enlace](https://github.com/unir-videojuegos/juegos-web).
+
 ## Aclaración
 
 El contenido de este repositorio se proporciona como material complementario para los estudiantes de la asignatura _Juegos para la Web_ del [Grado en Diseño y Desarrollo de Videojuegos de la UNIR](https://www.unir.net/diseno/grado-diseno-desarrollo-videojuegos/). Este material, bajo la responsabilidad exclusiva de su [autor](https://www.linkedin.com/in/jarturomora/), está disponible libremente bajo la [licencia Creative Commons Zero](LICENSE). Cualquier persona interesada puede hacer uso de estos recursos, siempre respetando los derechos de autor de los materiales oficiales proporcionados a los estudiantes del grado por la UNIR. Cabe destacar que el uso de este material no influye ni afecta la calificación de los estudiantes en la asignatura.
